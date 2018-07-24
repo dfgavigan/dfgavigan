@@ -1,0 +1,32 @@
+html {
+    background-color: dodgerblue;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: lawngreen;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 10px groove yellow;
+}
+
+
+#primary {
+    color: cornflowerblue;
+}
+
+#secondary {
+    color: darkred;
+}
+
+p {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}

@@ -1,0 +1,21 @@
+a[href="www.bbc.co.uk"] {
+    color: hotpink;
+    border: dodgerblue;
+    border-style: double;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: darkred;
+}
+
+a:active {
+    color: aquamarine;
+}

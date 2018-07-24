@@ -1,0 +1,7 @@
+ul#summer-drinks li {
+    color: red;
+}
+
+html body ul#summer-drinks li.favorite {
+    color: blue;
+}
